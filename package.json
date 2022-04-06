@@ -1,0 +1,24 @@
+{
+  "name": "fcc-2-adding-js-for-simple-render",
+  "version": "1.0.0",
+  "description": "# 2 - Changing the DOM with JavaScript",
+  "main": "vibe.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philhawksworth/fcc-2-adding-js-for-simple-render.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philhawksworth/fcc-2-adding-js-for-simple-render/issues"
+  },
+  "homepage": "https://github.com/philhawksworth/fcc-2-adding-js-for-simple-render#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}

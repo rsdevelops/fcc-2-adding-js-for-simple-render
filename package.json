@@ -1,24 +1,18 @@
 {
-  "name": "fcc-2-adding-js-for-simple-render",
+  "name": "3-build-with-ssg",
   "version": "1.0.0",
-  "description": "# 2 - Changing the DOM with JavaScript",
+  "description": "",
   "main": "vibe.js",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/philhawksworth/fcc-2-adding-js-for-simple-render.git"
-  },
   "keywords": [],
-  "author": "",
+  "author": "Phil Hawksworth <phil@netlify.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/philhawksworth/fcc-2-adding-js-for-simple-render/issues"
-  },
-  "homepage": "https://github.com/philhawksworth/fcc-2-adding-js-for-simple-render#readme",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^0.10.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.6.0"
   }
 }
